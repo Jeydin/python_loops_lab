@@ -1,7 +1,5 @@
-def reverse_number(x):
-	crab = ' '
-	for chicken in x:
-		crab = chicken + crab
-	print(crab)
+# Heading
 
-reverse_number("123456")
+# Name - Jeydin Pham
+# Date - November 8, 2021
+# Title - Loops Lab
